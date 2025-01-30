@@ -1,0 +1,12 @@
+name: DataHelth
+title: DataHelth
+username: sampson2
+account: sampson2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13854574
+bundleId: 9722787
+url: https://sampson2.shinyapps.io/DataHelth/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
